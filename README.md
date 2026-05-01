@@ -1,3 +1,5 @@
+[English](README.md) | [简体中文](README_CN.md)
+
 # Bilibili Low-Effort Video Filter
 
 A Tampermonkey script that helps you identify and visually flag low-quality reposts and AI-generated "slideshow" videos on Bilibili. 
