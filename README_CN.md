@@ -14,7 +14,7 @@
 
 ## 🛠️ 安装方法
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展。
-2. [点击此处安装脚本](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/bilibili-low-effort-filter.user.js)。
+2. [点击此处安装脚本](https://raw.githubusercontent.com/xinyuyua/bilibili-low-effort-filter/main/bilibili-low-effort-filter.user.js)。
 3. 在弹出的 Tampermonkey 页面中点击“安装”或“更新”。
 
 ## ⚙️ 工作原理
