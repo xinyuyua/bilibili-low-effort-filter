@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         Bilibili Low-Effort Video Filter
-// @namespace    https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME
+// @namespace    https://github.com/xinyuyua/bilibili-low-effort-filter
 // @version      2.2
 // @description  Identifies and highlights low-effort/reposted videos on Bilibili using color family analysis and center-weighted cropping.
-// @author       YourName
+// @author       Zinc Yuan
 // @match        *://www.bilibili.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/bilibili-low-effort-filter.user.js
-// @updateURL    https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/bilibili-low-effort-filter.user.js
+// @downloadURL  https://raw.githubusercontent.com/xinyuyua/bilibili-low-effort-filter/main/bilibili-low-effort-filter.user.js
+// @updateURL    https://raw.githubusercontent.com/xinyuyua/bilibili-low-effort-filter/main/bilibili-low-effort-filter.user.js
 // ==/UserScript==
 
 (function() {
