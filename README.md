@@ -14,7 +14,7 @@ Instead of removing the videos entirely, it replaces the cover with a **light re
 
 ## 🛠️ Installation
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension.
-2. [Click here to install the script](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/bilibili-low-effort-filter.user.js).
+2. [Click here to install the script](https://raw.githubusercontent.com/xinyuyua/bilibili-low-effort-filter/main/bilibili-low-effort-filter.user.js).
 3. Confirm the installation in the Tampermonkey tab.
 
 ## ⚙️ How it Works
